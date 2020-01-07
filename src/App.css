@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.nav {
+  color: white;
+  background-color: black;
+  height: 80px;
+padding: 4px;
+}
+
+.nav h1 {
+  float: left;
+}
+
+.post-form {
+  float: right;
+  text-align: left;
+  padding: 0 8px 16px 24px;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.post-list {
+  padding: 8px;
+  float: left;
+  text-align: left;
+}
